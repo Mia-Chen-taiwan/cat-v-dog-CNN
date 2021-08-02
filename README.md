@@ -1,4 +1,5 @@
 # cat-v-dog-CNN
+Cat vs Dog Classification CNN Model built with Tensorflow Keras
 
 ## Download cat-v-dog Dataset
 
