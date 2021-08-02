@@ -2,4 +2,4 @@
 
 ## Download cat-v-dog Dataset
 
-Kaggle(https://www.kaggle.com/c/dogs-vs-cats/data)
+Kaggle Dogs Versus Cats competition(https://www.kaggle.com/c/dogs-vs-cats/data)
